@@ -1,4 +1,4 @@
-# lemonpie
+# Lemonpie
 https://dpipke.github.io/lemonpie/
 
 ## Languages
